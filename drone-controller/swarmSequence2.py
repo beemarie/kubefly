@@ -115,10 +115,10 @@ elif scenario == "A2":
         (x1, y1, z1, 3.0),
         (x1, y1, z3, 5.0)
     ]
-    # sequence2 = [
-    #     (x2, y1, z2, 3.0),
-    #     (x2, y1, z3, 5.0)
-    # ]
+    sequence2 = [
+        (x2, y1, z2, 3.0),
+        (x2, y1, z3, 5.0)
+    ]
     sequence3 = [
         (x3, y1, z3, 3.0),
         (x3, y1, z3, 5.0)
